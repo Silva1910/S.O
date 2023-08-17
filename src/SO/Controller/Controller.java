@@ -1,7 +1,7 @@
 package SO.Controller;
 
-public class Controller {
-	public Controller() {
+public class controller {
+	public controller() {
 		super();
 	}
 

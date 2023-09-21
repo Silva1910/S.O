@@ -1,6 +1,8 @@
-package SO.Viewer;
+package Aula1.Exercicio1view;
 
-import SO.Controller.*;
+import Aula1.Exercicio1.controller;
+
+
 
 public class principal {
 	public static void main(String[] args) {

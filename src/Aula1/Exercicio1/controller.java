@@ -1,4 +1,4 @@
-package SO.Controller;
+package Aula1.Exercicio1;
 
 public class controller {
 	public controller() {
